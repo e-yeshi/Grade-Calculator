@@ -1,0 +1,20 @@
+.feild{
+  width: 6em;
+  margin-right: 1.5em;
+  line-height: initial ;
+}
+.titles{
+  margin-top: 22px;
+}
+.paras{
+  margin: 12px;
+}
+.home-button{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.submit-button{
+  position: absolute;
+  bottom: 0;
+}
